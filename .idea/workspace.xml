@@ -128,10 +128,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1595319573170">
+    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1595320723154">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1595319573170" />
+    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1595320723154" />
     <state x="900" y="224" key="FileChooserDialogImpl" timestamp="1595317830890">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -160,9 +160,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="105" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1595320703285" />
-    <state x="212" y="84" key="Vcs.Push.Dialog.v2" timestamp="1595319646085">
+    <state x="212" y="84" key="Vcs.Push.Dialog.v2" timestamp="1595320732316">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="212" y="84" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1595319646085" />
+    <state x="212" y="84" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1595320732316" />
   </component>
 </project>
